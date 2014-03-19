@@ -1,0 +1,12 @@
+::-webkit-scrollbar {
+height: 3px !important;
+width: 3px !important;
+#background: transparent !important;
+background: transparent !important;
+}
+::-webkit-scrollbar-thumb {
+background: #DD4814 !important;
+}
+::-webkit-scrollbar-corner {
+background: transparent !important;
+}

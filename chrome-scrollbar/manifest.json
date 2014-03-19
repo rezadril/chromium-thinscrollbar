@@ -1,0 +1,12 @@
+{
+   "content_scripts": [{
+                "matches": ["<all_urls>"],
+                "css": ["Custom.css"],
+                "run_at": "document_idle"
+        }], 
+   "key": 
+"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4r/pUHVPYQTn7vu3YHT52I0SKM15OBOTi0Jii4q5Koxd3Gdc/WXdqC2YgMA25J5PRiSubu/nHFf12Ubp3OZyNqB3j45ZscQ+tH1bwcV+cqdvv/Ik6VQaS6/qLmenLdFPKOCg/g1L1iKZu6Jjny6GlovpBj+7gjWQZBIoGBd70HQIDAQAB",
+   "manifest_version": 2,
+   "name": "Emulate Custom.css",
+   "version": "1.0"
+}
